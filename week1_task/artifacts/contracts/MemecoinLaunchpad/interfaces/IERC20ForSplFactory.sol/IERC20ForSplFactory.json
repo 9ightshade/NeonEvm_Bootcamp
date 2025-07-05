@@ -1,0 +1,45 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "IERC20ForSplFactory",
+  "sourceName": "contracts/MemecoinLaunchpad/interfaces/IERC20ForSplFactory.sol",
+  "abi": [
+    {
+      "inputs": [
+        {
+          "internalType": "string",
+          "name": "_name",
+          "type": "string"
+        },
+        {
+          "internalType": "string",
+          "name": "_symbol",
+          "type": "string"
+        },
+        {
+          "internalType": "uint8",
+          "name": "_decimals",
+          "type": "uint8"
+        },
+        {
+          "internalType": "address",
+          "name": "_mint_authority",
+          "type": "address"
+        }
+      ],
+      "name": "createErc20ForSplMintable",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "erc20spl",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x",
+  "deployedBytecode": "0x",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

@@ -1,0 +1,76 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "FixedPointMathLib",
+  "sourceName": "solady/src/utils/FixedPointMathLib.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "DivFailed",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "DivWadFailed",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "ExpOverflow",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "FactorialOverflow",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "FullMulDivFailed",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "LnWadUndefined",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "MantissaOverflow",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "MulDivFailed",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "MulWadFailed",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "OutOfDomain",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "RPowOverflow",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "SDivWadFailed",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "SMulWadFailed",
+      "type": "error"
+    }
+  ],
+  "bytecode": "0x60808060405234601757603a9081601d823930815050f35b600080fdfe600080fdfea264697066735822122016670bb0b9cbbc149f020de7131c20179826dc5c0f8ce1eaba58833fdc3dd2fe64736f6c634300081a0033",
+  "deployedBytecode": "0x600080fdfea264697066735822122016670bb0b9cbbc149f020de7131c20179826dc5c0f8ce1eaba58833fdc3dd2fe64736f6c634300081a0033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
